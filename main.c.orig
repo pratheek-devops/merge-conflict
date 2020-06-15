@@ -6,26 +6,29 @@ Initial Function()
 }
 
 <<<<<<< HEAD
-=======
 feature1()
 {
   //Sample Code for Feature 1
+=======
+feaature2()
+{
+  //Sample Code for Feature 2
+>>>>>>> feature2
 }
 
 
->>>>>>> feature1
 Initial Security()
 {
  //Sample Code
 }
 
-<<<<<<< HEAD
-=======
 
 
 }
+<<<<<<< HEAD
 
->>>>>>> feature1
+=======
+>>>>>>> feature2
 
 
 }
